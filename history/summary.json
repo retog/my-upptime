@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
-    "timeDay": 1263,
-    "timeWeek": 942,
-    "timeMonth": 942,
-    "timeYear": 942,
+    "time": 824,
+    "timeDay": 589,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 488,
-    "timeWeek": 403,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "time": 413,
+    "timeDay": 458,
+    "timeWeek": 413,
+    "timeMonth": 413,
+    "timeYear": 413,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 4028,
-    "timeDay": 4001,
-    "timeWeek": 4028,
-    "timeMonth": 4028,
-    "timeYear": 4028,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4193,
+    "timeDay": 4293,
+    "timeWeek": 4193,
+    "timeMonth": 4193,
+    "timeYear": 4193,
     "dailyMinutesDown": {
-      "2023-08-07": 8
+      "2023-08-08": 0
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7229,
-    "timeDay": 6974,
-    "timeWeek": 7229,
-    "timeMonth": 7229,
-    "timeYear": 7229,
+    "time": 7081,
+    "timeDay": 6785,
+    "timeWeek": 7081,
+    "timeMonth": 7081,
+    "timeYear": 7081,
     "dailyMinutesDown": {}
   }
 ]
