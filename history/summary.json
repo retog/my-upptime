@@ -61,19 +61,19 @@
     "url": "https://treatment.ld.plazi.org/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6922,
-    "timeDay": 6905,
-    "timeWeek": 6902,
-    "timeMonth": 6922,
-    "timeYear": 6922,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 7107,
+    "timeDay": 8862,
+    "timeWeek": 7337,
+    "timeMonth": 7107,
+    "timeYear": 7107,
     "dailyMinutesDown": {
-      "2023-08-24": 0
+      "2023-08-24": 12
     }
   }
 ]
