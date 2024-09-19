@@ -4,35 +4,39 @@
     "url": "https://www.plazi.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.plazi.org.ico",
     "slug": "plazi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 1127,
-    "timeWeek": 1020,
-    "timeMonth": 896,
-    "timeYear": 850,
-    "dailyMinutesDown": {}
+    "time": 875,
+    "timeDay": 729,
+    "timeWeek": 1524,
+    "timeMonth": 1034,
+    "timeYear": 862,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "SynoSpecies",
     "url": "https://synospecies.plazi.org",
     "icon": "https://icons.duckduckgo.com/ip3/synospecies.plazi.org.ico",
     "slug": "syno-species",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 197,
-    "timeWeek": 481,
-    "timeMonth": 468,
+    "timeDay": 244,
+    "timeWeek": 410,
+    "timeMonth": 463,
     "timeYear": 398,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   }
 ]
