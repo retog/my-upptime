@@ -6,15 +6,15 @@
     "slug": "plazi",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 875,
-    "timeDay": 911,
-    "timeWeek": 1470,
-    "timeMonth": 1036,
-    "timeYear": 862,
+    "timeDay": 701,
+    "timeWeek": 1433,
+    "timeMonth": 1038,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2024-09-19": 107
     }
@@ -26,15 +26,15 @@
     "slug": "syno-species",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 395,
-    "timeDay": 381,
-    "timeWeek": 424,
-    "timeMonth": 464,
-    "timeYear": 398,
+    "timeDay": 488,
+    "timeWeek": 415,
+    "timeMonth": 454,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-09-19": 107
     }
